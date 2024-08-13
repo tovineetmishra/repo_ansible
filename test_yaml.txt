@@ -12,7 +12,7 @@ tutorial:
   - json:
       name: JavaScript Object Notation
       type: great
-      born: 2001
+      born: 200101
   - xml:
       name: Extensible Markup Language
       type: good
